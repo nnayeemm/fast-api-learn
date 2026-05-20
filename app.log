@@ -1,0 +1,35 @@
+20-05-2026 12:29:59 PM - INFO - Nayeem logged in successfully
+20-05-2026 12:29:59 PM - DEBUG - Dividing 10 by 2
+20-05-2026 12:29:59 PM - INFO - Result = 5.0
+20-05-2026 12:29:59 PM - DEBUG - Dividing 10 by 0
+20-05-2026 12:29:59 PM - ERROR - Cannot divide by zero
+20-05-2026 12:29:59 PM - WARNING - Disk space is running low
+20-05-2026 12:29:59 PM - CRITICAL - Database connection failed
+20-05-2026 12:30:55 PM - INFO - Nayeem logged in successfully
+20-05-2026 12:30:55 PM - DEBUG - Dividing 10 by 2
+20-05-2026 12:30:55 PM - INFO - Result of dividing 10 by 2 = 5.0
+20-05-2026 12:30:55 PM - DEBUG - Dividing 10 by 0
+20-05-2026 12:30:55 PM - ERROR - Cannot divide by zero
+20-05-2026 12:30:55 PM - WARNING - Disk space is running low
+20-05-2026 12:30:55 PM - CRITICAL - Database connection failed
+20-05-2026 12:44:48 PM - INFO - Nayeem logged in successfully
+20-05-2026 12:44:48 PM - DEBUG - Dividing 10 by 2
+20-05-2026 12:44:48 PM - INFO - Result of dividing 10 by 2 = 5.0
+20-05-2026 12:44:48 PM - DEBUG - Dividing 10 by 0
+20-05-2026 12:44:48 PM - ERROR - Cannot divide by zero
+20-05-2026 12:44:48 PM - WARNING - Disk space is running low
+20-05-2026 12:44:48 PM - CRITICAL - Database connection failed
+20-05-2026 02:38:49 PM - INFO - Nayeem logged in successfully
+20-05-2026 02:38:49 PM - DEBUG - Dividing 10 by 2
+20-05-2026 02:38:49 PM - INFO - Result of dividing 10 by 2 = 5.0
+20-05-2026 02:38:49 PM - DEBUG - Dividing 10 by 0
+20-05-2026 02:38:49 PM - ERROR - Cannot divide by zero
+20-05-2026 02:38:49 PM - WARNING - Disk space is running low
+20-05-2026 02:38:49 PM - CRITICAL - Database connection failed
+20-05-2026 02:39:41 PM - INFO - Nayeem logged in successfully
+20-05-2026 02:39:41 PM - DEBUG - Dividing 10 by 2
+20-05-2026 02:39:41 PM - INFO - Result of dividing 10 by 2 = 5.0
+20-05-2026 02:39:41 PM - DEBUG - Dividing 10 by 0
+20-05-2026 02:39:41 PM - ERROR - Cannot divide by zero
+20-05-2026 02:39:41 PM - WARNING - Disk space is running low
+20-05-2026 02:39:41 PM - CRITICAL - Database connection failed
