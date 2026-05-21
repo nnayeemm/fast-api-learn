@@ -5,7 +5,7 @@ file_handler = logging.FileHandler('app.log')
 # Configure logging
 logging.basicConfig(
     level=logging.DEBUG,        
-    format='%(asctime)s - %(levelname)s - %(message)s',
+    format='%(asctime)s | %(name)s | %(lineno)d | %(levelname)-8s - %(message)s',
        datefmt='%d-%m-%Y %I:%M:%S %p',
        handlers=[console_handler, file_handler]
 )
